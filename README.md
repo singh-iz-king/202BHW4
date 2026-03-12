@@ -6,4 +6,4 @@ python3 -m pipeline 123
 
 Note that the upload got messed up so to run the code properly you need to put the optimizer.py, train.py, and hp_tuning.py files into a folder called optimizers and then run the above command
 
-My report and discussion are contained in the file named write up.
+My report and discussion are contained in the file named FinalWriteUp.
